@@ -1,0 +1,16 @@
+
+1 Register  2 View  0 Exit
+Choice: Student: Event: Confirmed: Aarav -> Coding Workshop
+Registration saved.
+
+1 Register  2 View  0 Exit
+Choice: Student: Event: Rejected: empty field or duplicate.
+
+1 Register  2 View  0 Exit
+Choice: Registrations: 1
+Aarav | Coding Workshop
+
+1 Register  2 View  0 Exit
+Choice: 
+PASS: repository contracts, persistence, service,
+notification substitution, failure handling and report.

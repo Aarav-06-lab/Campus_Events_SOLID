@@ -1,0 +1,7 @@
+events
+tests_runner
+registrations.txt
+notifications.log
+test-data.txt
+test-notify.log
+.DS_Store
